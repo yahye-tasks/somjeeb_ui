@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "808004665331",
+    "project_id": "somjeeb-1622a",
+    "storage_bucket": "somjeeb-1622a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808004665331:android:1be6bfa83d991ec21f1c86",
+        "android_client_info": {
+          "package_name": "com.yahyeapps.somjeeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808004665331-p7ih4sh3isbk59aled6g2f7unh55j1l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICy0P4ja4y2YFSvfRiZiBn5FVHVXIMTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808004665331-p7ih4sh3isbk59aled6g2f7unh55j1l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808004665331-hjvmg5rhma2f0d2n5rojcdqrjsossga5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yahyeapps.somjeeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
